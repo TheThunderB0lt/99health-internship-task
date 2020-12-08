@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 You can preview the whole project at **https://health-ddd2a.web.app/**
 
+### `This is ADVANCED` -
+
+Search bar + Filters + filtering working : Task
+
 ## Available Scripts
 
 In the project directory, you can run:
